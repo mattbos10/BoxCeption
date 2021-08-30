@@ -1,0 +1,77 @@
+h1 {
+    margin-left: 550px;
+    width: 500px;
+}
+
+div {
+    border: 3px solid black;
+}
+
+.inside {
+    width: 100px;
+    height: 100px;
+    margin: 100px auto;
+    align-items: center;
+    background-color: white;
+}
+
+.middle {
+    width: 300px;
+    height: 300px;
+    margin: 100px auto;
+    align-items: center;
+    background-color: blue;
+}
+
+.outside {
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    align-items: center;
+    background-color: red;
+}
+
+table {
+    margin-left: 460px;
+    border: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+}
+
+#tl {
+    border-top: 3px solid black;
+  
+    border-left: 3px solid black;
+}
+
+#tr {
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+}
+
+#top {
+    border-top: 3px solid black;
+}
+
+#left {
+    border-left: 3px solid black;
+}
+#right {
+    border-right: 3px solid black;
+}
+#bl {
+    border-bottom: 3px solid black;
+  
+    border-left: 3px solid black;
+}
+#br {
+    border-bottom: 3px solid black;
+  
+    border-right: 3px solid black;
+}
+#bottom {
+    border-bottom: 3px solid black ;
+}
+#allfour {
+    border: 3px solid black;
+}
