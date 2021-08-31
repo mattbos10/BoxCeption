@@ -1,40 +1,32 @@
 h1 {
-    margin-left: 550px;
-    width: 500px;
+    text-align: center;
 }
 
 div {
     border: 3px solid black;
+    margin: 100px auto;
 }
 
 .inside {
     width: 100px;
     height: 100px;
-    margin: 100px auto;
-    align-items: center;
     background-color: white;
 }
 
 .middle {
     width: 300px;
     height: 300px;
-    margin: 100px auto;
-    align-items: center;
     background-color: blue;
 }
 
 .outside {
     width: 500px;
     height: 500px;
-    margin: 100px auto;
-    align-items: center;
     background-color: red;
 }
 
 table {
-    margin-left: 460px;
-    border: 0px;
-    padding: 0px;
+    margin: auto;
     border-collapse: collapse;
 }
 
